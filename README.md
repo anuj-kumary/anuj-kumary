@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://anujy-code.github.io/Anujkumar-Yadav/](https://anujy-code.github.io/Anujkumar-Yadav/)
+- 👨‍💻 All of my projects are available at [https://anujkumar.netlify.app/](https://anujkumar.netlify.app/)
 
 - 📝 I regularly write articles on [https://www.instagram.com/night.coder_/](https://www.instagram.com/night.coder_/)
 
