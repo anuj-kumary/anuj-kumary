@@ -12,14 +12,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<img width="30" height="30" src="https://img.icons8.com/?size=160&id=asWSSTBrDlTW&format=png" alt="react"/> 
-<img width="30" height="30" src="https://img.icons8.com/?size=96&id=uJM6fQYqDaZK&format=png" />
-<img width="30" height="30" src="https://img.icons8.com/?size=96&id=108784&format=png" alt="javascript" />
-<img width="30" height="30" src="https://img.icons8.com/?size=96&id=7gdY5qNXaKC0&format=png" />
-<img width="30" height="30" src="https://img.icons8.com/?size=96&id=20909&format=png" />
-<img width="30" height="30" src="https://img.icons8.com/?size=96&id=0HyDNss5DL1B&format=png" />
-<img width="30" height="30" src="https://img.icons8.com/?size=96&id=9OGIyU8hrxW5&format=png" />
-<img width="30" height="30" src="https://img.icons8.com/?size=96&id=gFw7X5Tbl3ss&format=png" />
+<img width="40" height="40" src="https://img.icons8.com/?size=160&id=asWSSTBrDlTW&format=png" alt="react"/> 
+<img width="40" height="40" src="https://img.icons8.com/?size=96&id=uJM6fQYqDaZK&format=png" />
+<img width="40" height="40" src="https://img.icons8.com/?size=96&id=108784&format=png" alt="javascript" />
+<img width="40" height="40" src="https://img.icons8.com/?size=96&id=7gdY5qNXaKC0&format=png" />
+<img width="40" height="40" src="https://img.icons8.com/?size=96&id=20909&format=png" />
+<img width="40" height="40" src="https://img.icons8.com/?size=96&id=0HyDNss5DL1B&format=png" />
+<img width="40" height="40" src="https://img.icons8.com/?size=96&id=9OGIyU8hrxW5&format=png" />
+<img width="40" height="40" src="https://img.icons8.com/?size=96&id=gFw7X5Tbl3ss&format=png" />
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuj-kumary&show_icons=true&locale=en&layout=compact" alt="anuj-kumary" /></p>
