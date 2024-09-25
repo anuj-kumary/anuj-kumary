@@ -19,8 +19,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuj-kumary" alt="anuj-kumary" /></a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuj-kumary&show_icons=true&locale=en&layout=compact" alt="anuj-kumary" /></p>
-
 [![An image of @anujy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anujy)](https://holopin.io/@anujy)
 
 
