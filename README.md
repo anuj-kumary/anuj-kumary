@@ -10,7 +10,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,ts,redux,html,css,tailwind,materialui,vite,nodejs,express,mongodb,postgres,c,cpp,jest,cypress,git,github,netlify,figma,linux,vscode,postman&perline=14" />
+    <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,ts,redux,html,css,tailwind,materialui,vite,nodejs,express,mongodb,postgres,mysql,c,cpp,gradle,jest,cypress,git,github,gitlab,netlify,figma,linux,vscode,postman&perline=14" />
   </a>
 </p>
 
