@@ -3,9 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuj-kumary&label=Profile%20views&color=0e75b6&style=flat" alt="anuj-kumary" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🔭   I’m currently learning Web Development and DS.
+- 💼   Experienced Software Developer, constantly exploring new ways to build smarter, more efficient systems.
+- 🚀   Passionate about Exploring newer technologies and developing rapid prototypes.
+- ✍️    Love writing blogs on Medium and Hashnode, sharing insights on JavaScript and React.
 
-- 📫 How to reach me **anujf0510@gmail.com**
+- 📫   Feel free to message me at: anujf0510@gmail.com – I’m always open to connecting!
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
@@ -15,10 +18,11 @@
 </p>
 
 <br />
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuj-kumary&show_icons=true&locale=en&layout=compact" alt="anuj-kumary" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuj-kumary&show_icons=true&locale=en" alt="anuj-kumary" /></p>
+
+<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=anuj-kumary&card_width=550&card_height=200" alt="GitHub Streak" /></a></p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuj-kumary" alt="anuj-kumary" /></a> </p>
