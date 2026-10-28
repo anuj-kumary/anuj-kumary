@@ -1,64 +1,36 @@
-<h1 align="center">Hi 👋, I'm Anujkumar Yadav</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer</h3>
+<h1 align="center">Hi, I'm Anujkumar Yadav 👋</h1>
+<p align="center"><b>Full-stack engineer</b> · React · TypeScript · React Native · Node.js · Mumbai, India</p>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About me
 
-I’m a Software Engineer with 4+ years of experience building reliable and scalable web applications. Over the years, I’ve contributed across both frontend and backend systems, delivering production-ready features that are maintainable, performant, and user-focused.
+Full-stack engineer with 4+ years of experience building scalable web and mobile products. My core strength is frontend engineering with React and TypeScript, and I'm comfortable across the stack with Node.js, REST APIs, and PostgreSQL. I enjoy owning features end-to-end, from design discussions to testing and production.
 
-My core strength lies in frontend engineering, where I design clean and scalable architectures using React and TypeScript. I’m also comfortable building backend services developing REST APIs, designing database schemas, and improving system performance.
+### 🌱 Open source
 
-I enjoy owning features end-to-end from requirement discussions and system design to implementation, testing, and deployment. I believe in writing code that not only works but remains easy to scale and maintain as products grow.
+- **Core contributor to [OpenMetadata](https://github.com/open-metadata/OpenMetadata)**, an open-source metadata platform for data discovery, observability, and governance
+- Author of [**react-native-toastify-expo**](https://www.npmjs.com/package/react-native-toastify-expo), type-safe, animated toast notifications for React Native and Expo
 
-I’m always looking to simplify complexity, improve systems, and contribute meaningfully to strong engineering teams.
-
----
-
-## 🛠 Tech Stack
+### 🛠 Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,ts,react,nextjs,redux,tailwind,materialui,nodejs,express,mongodb,postgres,mysql,jest,cypress,git,github,gitlab,linux,vscode,postman&perline=10" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,nodejs,express,postgres,mongodb,jest,cypress,docker,aws,git&perline=15" />
 </p>
 
----
-
-## 📊 GitHub Activity
+### 📊 GitHub activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuj-kumary&theme=tokyonight" />
 </p>
 
----
-
-## ✍️ Writing & Knowledge Sharing
-
-I enjoy sharing practical engineering insights and lessons learned through writing.  
-You can find my articles on Medium and Hashnode, where I write about JavaScript, React architecture, performance optimization, and backend fundamentals.
-
----
-
-## 🤝 Let's Connect
+### 🤝 Let's connect
 
 <p align="center">
-<a href="https://www.linkedin.com/in/anujkumar-yadav-29b2521aa/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://twitter.com/TheRealAnujK">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-<a href="https://anujf0510.medium.com/">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
-<a href="https://hashnode.com/@Anujky">
-  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
-</a>
+  <a href="https://anujkumar-yadav.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/anujkumaryadav05"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/TheRealAnujK"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="mailto:anujf0510@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
----
-
-## 📫 Open to Opportunities & Collaboration
-
-📩 anujf0510@gmail.com  
-
-I’m open to full-stack roles, frontend-focused positions, and meaningful product-driven opportunities.
+<p align="center">Open to full-stack and frontend-focused roles.</p>
